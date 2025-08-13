@@ -1,0 +1,6 @@
+text,intent
+"Hi, is your 2-bedroom available for this weekend?",booking_inquiry
+"How do I check in? I can't find the key box.",checkin_help
+"I was charged twice for my booking!",payment_issue
+"The apartment was dirty and the AC didn’t work.",complaint
+"Thanks! You’re the best.",chit_chat

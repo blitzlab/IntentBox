@@ -1,0 +1,23 @@
+# Python/Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+/staticfiles/
+media/
+
+# Env & local config
+.env
+.env.*
+*.pem
+
+# Poetry / venv
+.venv/
+poetry.lock
+
+# Models & data (retrain locally)
+models/*.joblib
+data/*.csv
+
+# IDE
+.vscode/
+.idea/
